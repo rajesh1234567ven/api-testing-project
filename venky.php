@@ -5,7 +5,7 @@
        <br >
     <h4><b>Enter 2nd Value </b></h4>
     
-       <input type="text" name="two" id="two" class="form-control" placeholder="2nd Digit">
+       <input type="text" name="two" id="two" class="form-control" placeholder="4nd Digit">
        <br /><br />
        <input type="submit" name="submit">
     </form>
